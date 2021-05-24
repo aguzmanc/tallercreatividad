@@ -46,5 +46,4 @@ Standard Assets.meta
 .vscode/launch.json
 .vscode/
 .DS_Store
-
-/Packages/packages-lock.json
+*lock.json
