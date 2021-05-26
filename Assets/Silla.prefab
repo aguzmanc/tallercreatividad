@@ -27,7 +27,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3212548330680860961}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.39348185, y: 0.46301174, z: 0.39787522}
+  m_LocalPosition: {x: 0.396, y: 0.402, z: 0.39787522}
   m_LocalScale: {x: -0.1239715, y: 0.8416475, z: 0.14705}
   m_Children: []
   m_Father: {fileID: 5546698502699197696}
@@ -306,7 +306,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5231054671480643318}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.48348188, y: 0.46301174, z: 0.39787522}
+  m_LocalPosition: {x: -0.48348188, y: 0.411, z: 0.39787522}
   m_LocalScale: {x: -0.1239715, y: 0.8416475, z: 0.14705}
   m_Children: []
   m_Father: {fileID: 5546698502699197696}
@@ -382,7 +382,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5546698502699197696}
   m_Layer: 0
-  m_Name: Silla 1
+  m_Name: Silla
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
